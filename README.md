@@ -130,6 +130,6 @@
 </div>
 
 
-### Watch my contribution graph get eaten by the snake 🐍
+### Snake eating my contribution graph 🐍
 
 ![Dasun snake gif](https://github.com/dasundoloswala23/dasundoloswala23/blob/output/github-contribution-grid-snake.svg)
