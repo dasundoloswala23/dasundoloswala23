@@ -132,4 +132,4 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-![Shehanka snake gif](https://github.com/dasundoloswala23/dasundoloswala23/blob/output/github-contribution-grid-snake.svg)
+![Dasun snake gif](https://github.com/dasundoloswala23/dasundoloswala23/blob/output/github-contribution-grid-snake.svg)
