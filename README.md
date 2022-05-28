@@ -129,6 +129,6 @@
   </a>
 </div>
 
-##Snake 
-![snake gif](https://github.com/YOUR_USERNAME/dasundoloswala23/blob/output/github-contribution-grid-snake.gif)
+## Snake 
+![snake gif](https://github.com/dasundoloswala23/dasundoloswala23/blob/output/github-contribution-grid-snake.gif)
 
