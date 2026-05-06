@@ -7,7 +7,18 @@
 <hr/>
 <div>
   <div align='left'>
-   I am a <strong>Software Engineer</strong> with a BSc (Hons) in Information Technology specializing in Software Engineering from the Sri Lanka Institute of Information Technology (SLIIT), graduated in 2023. With <strong>3+ years of experience</strong> in mobile application development, I design, develop, and publish apps on both the <strong>Google Play Store</strong> and the <strong>Apple App Store</strong>. My core skills include Flutter, Java, MERN stack, JavaScript, TypeScript, HTML, CSS, and Python.
+  I am a <strong>Software Engineer</strong> with a BSc (Hons) in Information Technology specializing in Software Engineering from the Sri Lanka Institute of Information Technology (SLIIT), graduated in 2023. With <strong>3+ years of experience</strong> in mobile application development, I design, develop, and publish apps on both the <strong>Google Play Store</strong> and the <strong>Apple App Store</strong>. My core skills include Flutter, Java, MERN stack, JavaScript, TypeScript, HTML, CSS, and Python.
+  <hr/>
+  <div align='left'>
+    <b>Find me on:</b><br/>
+    <a href='https://www.linkedin.com/in/dasun-doloswala-20195212b/' target='_blank' style='text-decoration: none'>
+      <img alt='LinkedIn (Dasun Dola)' src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
+    </a>
+    <a href='https://stackoverflow.com/users/20000775/dasun-dola' target='_blank' style='text-decoration: none'>
+      <img alt='Stack Overflow' src='https://img.shields.io/badge/-StackOverflow-0D1117?style=for-the-badge&logo=stackoverflow&logoColor=F0DB4F'>
+    </a>
+  </div>
+  <hr/>
   </div>
 </div>
 <hr/>
@@ -52,12 +63,7 @@
     <img alt='Email'
          src='https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F'>
   </a>
-  <a href='https://www.linkedin.com/in/tharindu-dasun-doloswala-20195212b/'
-     target='_blank'
-     style='text-decoration: none'>
-    <img alt='LinkedIn'
-         src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
-  </a>
+  <!-- Example LinkedIn link above for Tharindu Dasun Doloswala. See new section for Dasun Dola. -->
   <a href='https://www.facebook.com/doloswala.tharindu'
      target='_blank'
      style='text-decoration: none'>
@@ -289,6 +295,8 @@
 </div>
 
 
-### Snake eating my contribution graph 🐍
+### 🐍 Snake eating my contribution graph
 
-![Dasun snake gif](https://github.com/dasundoloswala23/dasundoloswala23/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img alt="Dasun snake gif" src="https://github.com/dasundoloswala23/dasundoloswala23/blob/output/github-contribution-grid-snake.svg"/>
+</div>
