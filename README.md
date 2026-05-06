@@ -32,18 +32,18 @@
 
 | App | Account | Status |
 |-----|---------|--------|
-| 🌸 Wish Fertility | Dasun Doloswala | Prepare for Submission |
-| 📦 Mass Product Manage App | Dasun Doloswala | Prepare for Submission |
-| 🌿 SLPP | Dasun Doloswala | Ready for Distribution |
-| 💳 My Fin Apps | Dasun Doloswala | Prepare for Submission |
-| 🏥 RAhi1 | Dasun Doloswala | Prepare for Submission |
-| 🐾 Pet Pulz | Digital Pulz (Private) Limited | Pending Agreement |
-| 📚 Kathana | Digital Pulz (Private) Limited | Pending Agreement |
-| 🎓 I AM SLIIT | Digital Pulz (Private) Limited | Pending Agreement |
-| 🏠 Viyathpura Apartment | Digital Pulz (Private) Limited | Pending Agreement |
-| 🎓 EAC SLIIT | Digital Pulz (Private) Limited | Pending Agreement |
-| 🏢 Digital Aptora | Digital Pulz (Private) Limited | Pending Agreement |
-| 📺 Tele Pulz | Digital Pulz (Private) Limited | Prepare for Submission |
+ 
+
+| 🌿 SLPP |  
+| 💳 My Fin Apps |  
+| 🐾 Pet Pulz |  
+| 📚 Kathana |  
+| 🎓 I AM SLIIT | 
+| 🏠 Viyathpura Apartment |  
+| 🎓 EAC SLIIT |  
+| 🏢 Digital Aptora | 
+| 📦 Mass Product Manage App | 
+ 
 
 <hr/>
 <div align='left'>
