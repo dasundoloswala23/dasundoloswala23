@@ -7,9 +7,44 @@
 <hr/>
 <div>
   <div align='left'>
-   I am a 3rd-year undergraduate student at the Sri Lanka Institute of Information Technology (SLIIT) with a BSc (Hons) in Information Technology Specializing in Software Engineering.Programming, Software Engineering and technical skills include flutter, java, mern, JavaScript, HTML, CSS and   Python language are some of my main programming languages which I am most strong in.
+   I am a software developer with a BSc (Hons) in Information Technology specializing in Software Engineering from the Sri Lanka Institute of Information Technology (SLIIT). I design, develop, and publish mobile applications on both <strong>Google Play Store</strong> and the <strong>Apple App Store</strong>. My core skills include Flutter, Java, MERN stack, JavaScript, TypeScript, HTML, CSS, and Python.
   </div>
 </div>
+<hr/>
+
+### 📱 Published Mobile Apps
+
+<h4>🤖 Google Play Store</h4>
+
+| App | Package | Installs | Status |
+|-----|---------|----------|--------|
+| 🚗 Car Manage | `com.mycars.carmanage` | — | Production |
+| ✅ ZenDo | `com.todoo.zendo` | — | Production |
+| 🏢 Digital Aptora | `com.digitalapt.digitalpulzathpura.apartment` | 3 | Production |
+| 🎓 EAC SLIIT | `com.effective.academicsliit` | 541 | Production |
+| 💰 Fin Buddy | `com.fin_app.fin_app` | 18 | Production |
+| 🐾 Pet Pulz | `com.petpulz.petpulz` | 127 | Production |
+| 🎧 Sera Audio Books | `com.seraaudiobooks.sera` | 48 | Production |
+| 🏠 Viyathpura Apartment | `com.viyathpura.apartment` | 25 | Production |
+| 🎓 I AM SLIIT | `com.iam.sliit` | 2,530+ | Production |
+
+<h4>🍎 Apple App Store</h4>
+
+| App | Account | Status |
+|-----|---------|--------|
+| 🌸 Wish Fertility | Dasun Doloswala | Prepare for Submission |
+| 📦 Mass Product Manage App | Dasun Doloswala | Prepare for Submission |
+| 🌿 SLPP | Dasun Doloswala | Ready for Distribution |
+| 💳 My Fin Apps | Dasun Doloswala | Prepare for Submission |
+| 🏥 RAhi1 | Dasun Doloswala | Prepare for Submission |
+| 🐾 Pet Pulz | Digital Pulz (Private) Limited | Pending Agreement |
+| 📚 Kathana | Digital Pulz (Private) Limited | Pending Agreement |
+| 🎓 I AM SLIIT | Digital Pulz (Private) Limited | Pending Agreement |
+| 🏠 Viyathpura Apartment | Digital Pulz (Private) Limited | Pending Agreement |
+| 🎓 EAC SLIIT | Digital Pulz (Private) Limited | Pending Agreement |
+| 🏢 Digital Aptora | Digital Pulz (Private) Limited | Pending Agreement |
+| 📺 Tele Pulz | Digital Pulz (Private) Limited | Prepare for Submission |
+
 <hr/>
 <div align='left'>
   <a href='mailto:tharindudasun0@gmail.com'
@@ -42,8 +77,6 @@
     <img alt='Youtube'
          src='https://img.shields.io/badge/-youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4FF'>
   </a>
-  
-  
 </div>
 <hr/>
 <div align='left'>
@@ -63,6 +96,14 @@
 </div>
 <hr/>
 <div align='center'>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=F0DB4F'>
+  </a>
   <a href='#'>
     <img alt='icon'
          src='https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F'>
