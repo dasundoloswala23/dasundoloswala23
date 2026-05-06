@@ -7,7 +7,7 @@
 <hr/>
 <div>
   <div align='left'>
-   I am a software developer with a BSc (Hons) in Information Technology specializing in Software Engineering from the Sri Lanka Institute of Information Technology (SLIIT). I design, develop, and publish mobile applications on both <strong>Google Play Store</strong> and the <strong>Apple App Store</strong>. My core skills include Flutter, Java, MERN stack, JavaScript, TypeScript, HTML, CSS, and Python.
+   I am a <strong>Software Engineer</strong> with a BSc (Hons) in Information Technology specializing in Software Engineering from the Sri Lanka Institute of Information Technology (SLIIT), graduated in 2023. With <strong>3+ years of experience</strong> in mobile application development, I design, develop, and publish apps on both the <strong>Google Play Store</strong> and the <strong>Apple App Store</strong>. My core skills include Flutter, Java, MERN stack, JavaScript, TypeScript, HTML, CSS, and Python.
   </div>
 </div>
 <hr/>
@@ -31,19 +31,18 @@
 <h4>🍎 Apple App Store</h4>
 
 | App | 
-|-----|---------|--------|
- 
+|-----|
 
-| 🌿 SLPP |  
-| 💳 My Fin Apps |  
-| 🐾 Pet Pulz |  
-| 📚 Kathana |  
-| 🎓 I AM SLIIT | 
-| 🏠 Viyathpura Apartment |  
-| 🎓 EAC SLIIT |  
+| 📦 Mass Product Manage App |
+| 🌿 SLPP |
+| 💳 My Fin Apps |
+| 🐾 Pet Pulz |
+| 📚 Kathana |
+| 🎓 I AM SLIIT |
+| 🏠 Viyathpura Apartment | 
+| 🎓 EAC SLIIT | 
 | 🏢 Digital Aptora | 
-| 📦 Mass Product Manage App | 
- 
+
 
 <hr/>
 <div align='left'>
@@ -55,6 +54,125 @@
   </a>
   <a href='https://www.linkedin.com/in/tharindu-dasun-doloswala-20195212b/'
      target='_blank'
+     style='text-decoration: none'>
+    <img alt='LinkedIn'
+         src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
+  </a>
+  <a href='https://www.facebook.com/doloswala.tharindu'
+     target='_blank'
+     style='text-decoration: none'>
+    <img alt='Facebook'
+         src='https://img.shields.io/badge/-facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=F0DB4F'>
+  </a>
+  <a href='https://www.instagram.com/tharindu_dasun/'
+     target='_blank'
+     style='text-decoration: none'>
+    <img alt='Instagram'
+         src='https://img.shields.io/badge/-instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4FF'>
+  </a>
+  <a href='https://www.youtube.com/channel/UCGY2AYCGbAJYi4LUWu4dcHw'
+     target='_blank'
+     style='text-decoration: none'>
+    <img alt='Youtube'
+         src='https://img.shields.io/badge/-youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4FF'>
+  </a>
+</div>
+<hr/>
+<div align='left'>
+  <a href='#'>
+    <img alt='GitHub Stats'
+         src='https://github-readme-stats.vercel.app/api?username=dasundoloswala23&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F'
+         height='200'/>
+  </a>
+</div>
+<hr/>
+<div align='left'>
+  <a href='#'>
+    <img alt='Top Languages'
+         src='https://github-readme-stats.vercel.app/api/top-langs/?username=dasundoloswala23&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F'
+         height='200'/>
+  </a>
+</div>
+<hr/>
+<div align='center'>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F'>
+  </a>
+  <a href='#'>
+    <img alt='icon'
+         src='https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=F0DB4F'>
+  </a>
+</div>
+
+
+### Snake eating my contribution graph 🐍
+
+![Dasun snake gif](https://github.com/dasundoloswala23/dasundoloswala23/blob/output/github-contribution-grid-snake.svg)     target='_blank'
      style='text-decoration: none'>
     <img alt='LinkedIn'
          src='https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F'>
