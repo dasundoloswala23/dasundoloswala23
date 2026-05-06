@@ -30,7 +30,7 @@
 
 <h4>🍎 Apple App Store</h4>
 
-| App | Account | Status |
+| App | 
 |-----|---------|--------|
  
 
